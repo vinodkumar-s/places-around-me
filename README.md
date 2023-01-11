@@ -26,7 +26,8 @@ Run the server.
         <title>RESORT MAP</title>
         </head>
         <body>
-             <img src="/static/images/map1.jpg" height="884" width="1684" usemap="#resortmap">
+             <img src="/static/images/map1.jpg" height="884" width="1684" 
+             usemap="#resortmap">
              <MAP name="resortmap">
                  <AREA shape="RECT" coords="154,444,301,558"
                        href="/OceanSprayResort/" Title="OceanSprayResort">
